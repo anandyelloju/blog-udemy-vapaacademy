@@ -1,7 +1,7 @@
 # Blog Project
 
 A blog project developed during a [Udemy course](https://www.udemy.com/share/10aCfs3@G08F29ltQr9YhVVqXXuC5hnQkxQLAayz1akjOtP5iQVqTFvR2Vg2m2IdVZsC2ANV/) by Vapa Academy, built using HTML, and Tailwind CSS.
-<!--
+
 ## Table of Contents
 
 - [Screenshots](#screenshots)
@@ -12,7 +12,7 @@ A blog project developed during a [Udemy course](https://www.udemy.com/share/10a
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
-
+<!--
 ## Screenshots
 
 ![Homepage](ui/home.png)
