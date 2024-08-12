@@ -12,14 +12,13 @@ A blog project developed during a [Udemy course](https://www.udemy.com/share/10a
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
-<!--
+
 ## Screenshots
 
 ![Homepage](ui/home.png)
-![Post Page](ui/post.png)
-![Archive Page](ui/archive.png)
-![Contact Page](ui/contact.png)
+![Cards Page](ui/cards.png)
 
+<!--
 ## Installation
 
 To set up this project locally, follow these steps:
