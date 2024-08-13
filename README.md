@@ -18,7 +18,7 @@ A blog project developed during a [Udemy course](https://www.udemy.com/share/10a
 ![Homepage](ui/home.png)
 ![Cards Page](ui/cards.png)
 
-<!--
+
 ## Installation
 
 To set up this project locally, follow these steps:
@@ -31,7 +31,7 @@ To set up this project locally, follow these steps:
    cd udemy-blog-vapaacademy
   ``` 
 3. Open the `index.html` file in your web browser to view the blog.
-
+<!--
 ## Usage
 
 After installation, you can view and edit the blog directly in your web browser. The blog includes several sections:
