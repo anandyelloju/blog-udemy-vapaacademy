@@ -31,7 +31,7 @@ To set up this project locally, follow these steps:
    cd udemy-blog-vapaacademy
   ``` 
 3. Open the `index.html` file in your web browser to view the blog.
-<!--
+
 ## Usage
 
 After installation, you can view and edit the blog directly in your web browser. The blog includes several sections:
@@ -54,7 +54,7 @@ To add a new blog post, update the `index.html` file and create a new HTML file 
   </div>
 </div>
 ```
-
+<!--
 ## Features
 
 - **Blog Post Management:** Easily add, edit, and delete blog posts.
