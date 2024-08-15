@@ -54,12 +54,12 @@ To add a new blog post, update the `index.html` file and create a new HTML file 
   </div>
 </div>
 ```
-<!--
+
 ## Features
 
 - **Blog Post Management:** Easily add, edit, and delete blog posts.
 - **Responsive Design:** The blog is fully responsive and works on all devices.
-
+<!--
 ## Technologies Used
 
 - **HTML:** Markup language for creating web pages.
