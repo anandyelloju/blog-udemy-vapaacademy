@@ -59,14 +59,14 @@ To add a new blog post, update the `index.html` file and create a new HTML file 
 
 - **Blog Post Management:** Easily add, edit, and delete blog posts.
 - **Responsive Design:** The blog is fully responsive and works on all devices.
-<!--
+
 ## Technologies Used
 
 - **HTML:** Markup language for creating web pages.
 - **Tailwind CSS:** Utility-first CSS framework for styling.
 
 [![My Skills](https://skillicons.dev/icons?i=html,tailwindcss,,vscode,github)](https://skillicons.dev)
-
+<!--
 ## Contributing
 
 Contributions are always welcome! - If you have suggestions or improvements.
