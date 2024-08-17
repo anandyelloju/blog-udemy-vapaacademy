@@ -66,11 +66,11 @@ To add a new blog post, update the `index.html` file and create a new HTML file 
 - **Tailwind CSS:** Utility-first CSS framework for styling.
 
 [![My Skills](https://skillicons.dev/icons?i=html,tailwindcss,,vscode,github)](https://skillicons.dev)
-<!--
+
 ## Contributing
 
 Contributions are always welcome! - If you have suggestions or improvements.
-
+<!--
 ## Credits
 
 [Vapa Academy](https://www.udemy.com/user/mst-shobnom-mosthary/): Instructor of the Udemy course.
