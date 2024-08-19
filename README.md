@@ -74,8 +74,7 @@ Contributions are always welcome! - If you have suggestions or improvements.
 ## Credits
 
 [Vapa Academy](https://www.udemy.com/user/mst-shobnom-mosthary/): Instructor of the Udemy course.
-<!--
+
 ## License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) - see the [LICENSE](https://github.com/anandyelloju/udemy-blog-vapaacademy/blob/main/LICENSE) file for details.
--->
